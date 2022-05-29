@@ -46,4 +46,7 @@
 **Note:**
 -Put all images in same folder and should be in the format name.jpg
 
+**Here is the demo link for the project:**
+https://youtu.be/iWqo4moXB2Q
+
                                     
