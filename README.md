@@ -36,9 +36,10 @@
 
 # **Working**
 - Install required libraries 
-- Navigate to main.py and clone this project
+- Navigate to code and clone this project
 - open attendance.py and make sure to change the path of image inserted in tkinter window  and used for attendance with your path
 - open project in pycharm after cloning then run the project.
+- Go to the attendance.csv and check the attendance
 
 ![4](https://user-images.githubusercontent.com/78675015/170871034-a45d3f21-b6b8-4b59-a31c-2f47d39fffb4.png)
 
